@@ -23,6 +23,6 @@ Libraries: (Include any libraries you used, e.g., NumPy, pandas, scikit-learn, T
 How to Use
 
 Clone the repository:
-git clone https://github.com/your-username/ML_DataScience_Demos.git
+git clone https://github.com/PNeDIT/Python_ML_TUM_demos.git
 Run the scripts in a Python environment of your choice.
 Each script is self-contained and includes comments for better understanding.
